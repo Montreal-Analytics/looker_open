@@ -143,15 +143,9 @@ A notice that is sent by email but is not read by the addressee is nevertheless 
 
 ### Dispute Resolution
 
-//// **Early Neutral Evaluation.** At the request of either party, the parties will submit any dispute between them, arising out of or relating to this Agreement or any transaction or relationship arising from it, to nonbinding early neutral evaluation, in Pennsylvania, in accordance with the Early Neutral Evaluation procedures of the American Arbitration Association.
-
-//// **Arbitration.** At the request of either party, the parties will submit any dispute between them, arising out of or relating to this Agreement or any transaction or relationship arising from it, to binding arbitration in Pennsylvania, through the American Arbitration Association. The prevailing party in any dispute resolved by arbitration or litigation will be entitled to recover its costs and attorneys' fees.
-
-//// **Jurisdiction.** The parties irrevocably consent to the jurisdiction of the state and federal courts located in Philadelphia, Pennsylvania. The parties hereby waive any jurisdictional or venue defenses and consent to service of process by certified mail.
+**Choice of Law and Jurisdiction.** This Agreement shall be governed by and construed in accordance with the laws of the Province of Quebec, Canada and the Federal laws of Canada applicable therein in force at the time without regard to conflict of law provisions. Any legal action or proceeding regarding this Agreement shall be brought exclusively in the courts located in the Judicial District of Montreal, Canada.
 
 ### Interpretation
-
-//// **Governing Law.** This Agreement will be governed by the laws of the commonwealth of Pennsylvania without regard to its conflict or choice of law rules.
 
 **Analytics Terminology.** Any analytics terminology in the Statement of Work is defined according to standard analytics industry usage. Any dispute as to the meaning or scope of analytics terminology will be determined in good faith by Montréal Analytics.
 
@@ -166,6 +160,8 @@ A notice that is sent by email but is not read by the addressee is nevertheless 
 **Headings.** Section headings are provided for convenience only and do not affect the meaning of any terms.
 
 **Integration.** This Agreement comprises the entire understanding of the parties and supersedes all prior agreement and understandings.
+
+**Language.** The parties acknowledge having expressly required that this Agreement is to be drawn up in the English language. *Les parties aux présentes reconnaissent avoir expressément exigé que les présentes soient rédigées en anglais.*
 
 ## Definitions
 
