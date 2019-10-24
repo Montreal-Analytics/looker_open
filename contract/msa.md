@@ -52,7 +52,7 @@ The Client shall promptly review all Deliverables, and must notify Montréal Ana
 
 ## Client Rights in Deliverables
 
-**IP Assignment.** Upon Client acceptance of all Final Deliverables, Montréal Analytics shall assign IP rights in the Final Deliverables to the Client. These IP rights include all ownership rights, including any copyrights, in any software, analysis and presentation created by Fishtown Analytics and incorporated into a Final Deliverable, except as otherwise noted in this Agreement.
+**IP Assignment.** Upon Client acceptance of all Final Deliverables, Montréal Analytics shall assign IP rights in the Final Deliverables to the Client. These IP rights include all ownership rights, including any copyrights, in any software, analysis and presentation created by Montréal Analytics and incorporated into a Final Deliverable, except as otherwise noted in this Agreement.
 
 ## Montréal Analytics Rights in Deliverables
 
