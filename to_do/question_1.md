@@ -9,4 +9,4 @@ Using Explore Gsod
 
 * Add this viz to a new dashboard "Weather Follow up" in the folder called "Weather"
   * Add a filter per State
-  * Add the dynamic degrees unit filter
+  * Add the dynamic degrees unit selector
