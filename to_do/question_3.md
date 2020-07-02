@@ -1,8 +1,7 @@
 # Question 3
 
-Using Explore Gsod
+Using the explore **Gsod**:
 
-* Using the single value viz:
-  * find a way to display max, min and average temperature (in 2019) on different lines of the same visualization.
-    * Bonus point if you do that in LookML
-  * add that viz to your dashboard
+1. Using the single value vizualization, find a way to display Max, Min, and Average temperatures of 2019 on different lines of the **same visualization**.
+2. Can you do #1 in an alternative way?
+3. Add the vizualisation to your dashboard.

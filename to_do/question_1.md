@@ -1,12 +1,7 @@
 # Question 1
 
-Using Explore Gsod
+Using the explore **Gsod**:
 
-* build a look with year over year monthly average temperature for the last 5 years
-  * find the best way to visualize
-
-  * using lookml, find a way to let the business user choose to diplay the graph in Degrees Celsius or Fahrenheit.
-
-* Add this viz to a new dashboard "Weather Follow up" in the folder called "Weather"
-  * Add a filter per State
-  * Add the dynamic degrees unit selector
+1. Build a Look showing year-over-year monthly average temperatures for the last 5 years. Choose the best vizualisation for these results.
+2. By editing the LookML project, implement a way to let the business stakeholder change the chart between Celsius and Fahrenheint degrees.
+1. Add this new visualization on a new "Weather Follow Up" in the _Weather_ folder. Include a filter for the state, and the °C/°F selector.

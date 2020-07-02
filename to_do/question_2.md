@@ -1,8 +1,8 @@
 # Question 2
 
-Using Explore Gsod
+Using the explore **Gsod**:
 
-* Using a SQL Derived Table:
-  * Build a look that compares monthly average temperature and rainfall with the last 3 months rolling average temperature and last 3 months rolling average rainfall.
-  * persist the data so that the table is rebuilt everyday at 6am.
-* Do the same thing with a Native Derived Table
+1. Create a derived table, using SQL, to be able to compare the monthly average temperature and rainfall of a given month with the rolling averages of the previous 3 months.
+2. Build a Look to use this derived table. Choose the right visualization.
+3. Persist the derived table so that the table is rebuilt every day at 6 am.
+4. Create a native derived table (NDT) version of the derived table you created at step 1.
