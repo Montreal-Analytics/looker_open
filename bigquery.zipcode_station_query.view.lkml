@@ -6,7 +6,8 @@
 
 view: state_year {
   derived_table: {
-    sql_trigger_value: select count(*) ;;
+    # sql_trigger_value: select count(*) ;;
+    persist_for: "24 hours"
     sql:
       SELECT distinct year, state
               FROM `bigquery-public-data.noaa_gsod.gsod*`
