@@ -1,3 +1,3 @@
-connection: "looker_mtal_bigquery"
+connection: "looker_mtla_bigquery"
 
 include: "bigquery.explore"
