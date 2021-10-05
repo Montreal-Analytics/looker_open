@@ -60,7 +60,6 @@ view: bq_stations {
     sql: ${TABLE}.lon ;;
   }
 
-
   dimension: name {
     type: string
     sql: ${TABLE}.name ;;
