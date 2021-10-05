@@ -60,11 +60,6 @@ view: bq_stations {
     sql: ${TABLE}.lon ;;
   }
 
-  dimension: location {
-    type: location
-    sql_latitude:${latitude};;
-    sql_longitude:${longitude};;
-  }
 
   dimension: name {
     type: string
