@@ -3,7 +3,6 @@ include: "bigquery.*.view.lkml"
 explore: gsod {
   from: bq_gsod
   label: "GSOD"
-  group_label: "Looker Technical Test"
 
   join: zipcode_station {
     from: bq_zipcode_station
@@ -40,7 +39,6 @@ explore: gsod {
 
 explore: zipcode_county {
   from: bq_zipcode_county
-  group_label: "Looker Technical Test"
 
   join: zipcode_facts {
     from: bq_zipcode_facts
